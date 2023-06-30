@@ -1,4 +1,4 @@
-### Hi there 👋     
+### Hi there 👋      
 
 I am Gemechis Urgessa, currently working as a Software Engineer. I am a Full-Stack and mobile application developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
