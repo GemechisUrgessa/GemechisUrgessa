@@ -2,7 +2,7 @@
 
 I am Gemechis Urgessa, currently working as a Software Engineer. I am a Full-Stack and mobile application developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-GemechisUrgessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/gemechis-urgessa-676609226/)
+[![Linkedin Badge](https://img.shields.io/badge/-GemechisUrgessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/GemechisUrgessa/)](https://www.linkedin.com/in/gemechis-urgessa-676609226/)
 <!-- [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/-gemechisurgessa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gemechisurgessa@gmail.com)](mailto:gemechisurgessa@gmail.com)
 <!-- [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/) -->
