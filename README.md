@@ -49,5 +49,6 @@ I am Gemechis Urgessa, currently working as a Software Engineer. I am a Full-Sta
   </div>
 </p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GemechisUrgessa.GemechisUrgessa)
-![Profile Views](https://komarev.com/ghpvc/?username=GemechisUrgessa)
+
+
 
