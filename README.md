@@ -37,7 +37,7 @@ I am Gemechis Urgessa, currently working as a Software Engineer. I am a Full-Sta
 <p align=center>
  <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemechisUrgessa&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechis&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
  </div>
  </p>
 <!-- Github Stats Section -->
@@ -48,4 +48,4 @@ I am Gemechis Urgessa, currently working as a Software Engineer. I am a Full-Sta
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=GemechisUrgessa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GemechisUrgessa.GemechisUrgessa)
+[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GemechisUrgessa.GemechisUrgessa)
